@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @Tamwai
-- 👀 I’m interested in anything
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 Tamwai/Tamwai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
